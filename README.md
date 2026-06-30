@@ -4,7 +4,7 @@ A simple project to learn GitHub workflows.
 
 ## About
 
-This repositry contains a small Python utiltiy for greeting users.
+This repository contains a small Python utility for greeting users.
 
 ## Usage
 
@@ -14,6 +14,6 @@ Run the greeter:
 python greeter.py
 ```
 
-## Contribuing
+## Contributing
 
 Feel free to open issues or pull requests!
